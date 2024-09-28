@@ -22,7 +22,7 @@ Além disso, você precisará instalar as bibliotecas requeridas, conforme descr
    Abra o terminal e execute:
 
    ```bash
-   git clone https://github.com/seu-usuario/marvel-movies-dashboard.git
+   git clone [https://github.com/seu-usuario/marvel-movies-dashboard.git](https://github.com/vanderleicardoso/portifolio.vaderleicardoso.git)
    cd marvel-movies-dashboard
    ```
 
